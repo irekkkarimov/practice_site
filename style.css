@@ -1,0 +1,130 @@
+* {
+    font-family: "Trebuchet MS";
+}
+
+body {
+    background-image: url("images/background.jpg");
+    margin: 0px;
+}
+
+.nav {
+    margin-left: auto;
+}
+
+.nag-list {
+    display: flex;
+    list-style: none;
+    justify-content: end;
+}
+
+.nav-items {
+    display: block;
+    margin-top: 13px;
+    margin-right: 7px;
+}
+
+.nav-item {
+    color: #ece4e4;
+    text-align: right;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.auth {
+    display: flex;
+    color: #ece4e4;
+    text-align: right;
+    margin-top: 8px;
+    margin-right: 5px;
+    /*margin-left: 5px;*/
+}
+
+.auth-item {
+    display: block;
+    background-color: #dfe1e5;
+    border-radius: 15px;
+    border: 2px solid lightgray;
+    padding: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+}
+
+.reg {
+    display: block;
+    width: 265px;
+    height: 320px;
+    background-color: rgba(255, 255, 255, .8);
+    border-radius: 30px;
+    outline: 15px solid rgba(255, 255, 255, .3);
+    padding: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+
+}
+
+.heading {
+    display: block;
+    text-align: center;
+    font-size: 34px;
+    margin: 0px;
+    margin-top: 10px;
+}
+
+.reg-items {
+    margin-top: 40px;
+}
+
+.login {
+    width: 182px;
+    height: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+.password {
+    width: 182px;
+    height: 26px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input-name {
+    font-size: 20px;
+    margin: 0;
+    margin-left: 37.9px;
+}
+
+.redirects {
+    text-align: center;
+    display: grid;
+}
+
+.registered {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.home {
+    margin: 0;
+    margin-top: 10px;
+}
+
+.submit {
+    display: block;
+    font-size: 20px;
+    border-radius: 3px;
+    border: 1px solid #8a8a8a;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+
+
+
+
+
